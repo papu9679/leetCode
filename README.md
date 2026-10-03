@@ -1,5 +1,5 @@
 # leetCode
-A Bunch of LeetCode questions to show up to the recruiter! 
+Tracker of LeetCode 
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
