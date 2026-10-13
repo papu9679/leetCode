@@ -2,7 +2,7 @@
  * @param {string} digits
  * @return {string[]}
  */
-var letterCombinations = function(digits) {
+var letterCombinations = function (digits) {
     let two = ['a', 'b', 'c'];
     let three = ['d', 'e', 'f'];
     let four = ['g', 'h', 'i'];
@@ -12,7 +12,7 @@ var letterCombinations = function(digits) {
     let eight = ['t', 'u', 'v'];
     let nine = ['w', 'x', 'y', 'z'];
 
-     let map = {
+    let map = {
         '2': two,
         '3': three,
         '4': four,
