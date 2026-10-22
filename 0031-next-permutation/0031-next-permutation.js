@@ -31,6 +31,7 @@ var nextPermutation = function (nums) {
     }
     console.log(max);
 
+    // 4. then reverse (idx + 1) to (n - 1);
     let left = dropPoint + 1;
     let right = n;
     while(left < right){
