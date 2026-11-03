@@ -733,4 +733,8 @@ Tracker of LeetCode
 | ------- |
 | [0056-merge-intervals](https://github.com/sayan-adhikary/leetCode/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/sayan-adhikary/leetCode/tree/master/0455-assign-cookies) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sayan-adhikary/leetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
