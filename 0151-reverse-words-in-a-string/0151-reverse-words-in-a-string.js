@@ -2,13 +2,14 @@
  * @param {string} s
  * @return {string}
  */
-var reverseWords = function (s) {
-    let arr = s.trim().split(" ").reverse();
-    let newArr = []
-    for (let ele of arr) {
-        if (ele != '') {
-            newArr.push(ele);
-        }
+var reverseWords = function(s) {
+    let ans = s.split(' ').filter(x => x !== "");
+    let result = []
+    for(let i = 0; i < ans.length; i++){
+        result.push(ans[i]);
     }
-    return newArr.join(" ");
+    return result.reverse().join(' ');
 };
+
+// the sky is blue
+// [the, sky, is, blue]
