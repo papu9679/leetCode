@@ -58,6 +58,7 @@ Tracker of LeetCode
 | [0407-trapping-rain-water-ii](https://github.com/sayan-adhikary/leetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0435-non-overlapping-intervals](https://github.com/sayan-adhikary/leetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sayan-adhikary/leetCode/tree/master/0455-assign-cookies) |
+| [0456-132-pattern](https://github.com/sayan-adhikary/leetCode/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/sayan-adhikary/leetCode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/sayan-adhikary/leetCode/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sayan-adhikary/leetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -441,6 +442,7 @@ Tracker of LeetCode
 | [0268-missing-number](https://github.com/sayan-adhikary/leetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sayan-adhikary/leetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sayan-adhikary/leetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0456-132-pattern](https://github.com/sayan-adhikary/leetCode/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sayan-adhikary/leetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/sayan-adhikary/leetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/sayan-adhikary/leetCode/tree/master/0875-koko-eating-bananas) |
@@ -567,6 +569,7 @@ Tracker of LeetCode
 | [0144-binary-tree-preorder-traversal](https://github.com/sayan-adhikary/leetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sayan-adhikary/leetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/sayan-adhikary/leetCode/tree/master/0234-palindrome-linked-list) |
+| [0456-132-pattern](https://github.com/sayan-adhikary/leetCode/tree/master/0456-132-pattern) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sayan-adhikary/leetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sayan-adhikary/leetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/sayan-adhikary/leetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -676,6 +679,7 @@ Tracker of LeetCode
 ## Ordered Set
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/sayan-adhikary/leetCode/tree/master/0456-132-pattern) |
 | [2434-design-a-number-container-system](https://github.com/sayan-adhikary/leetCode/tree/master/2434-design-a-number-container-system) |
 ## Database
 |  |
@@ -710,6 +714,7 @@ Tracker of LeetCode
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sayan-adhikary/leetCode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sayan-adhikary/leetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0456-132-pattern](https://github.com/sayan-adhikary/leetCode/tree/master/0456-132-pattern) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sayan-adhikary/leetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Number Theory
 |  |
